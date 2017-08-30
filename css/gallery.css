@@ -1,0 +1,47 @@
+
+/*styling for gallery home page*/
+
+.photo-gallery {
+  align-content: center;
+}
+
+img#photo-gallery-image {
+  display: block;
+  margin: auto;
+  width: 100%
+}
+
+
+/*styling for actual galleries*/
+
+.gallery-inner {
+  width: 100%;
+  position: relative;
+  z-index: 99;
+  max-width: 640px;
+  padding: 4%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.gallery-title {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: -2px;
+  outline: 0;
+  word-break: break-word;
+  color: #333;
+}
+
+
+.gallery-description {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0 0 20px;
+  line-height: 1.5;
+  color: #555;
+  text-align: center;
+  font-weight: 400;
+}

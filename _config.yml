@@ -1,0 +1,88 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Pallavi Hukerikar"
+description: > # this means to ignore newlines until "email:"
+   travel enthusiast & uwaterloo engineering student
+
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/author.jpg"
+float_logo: true # true, false (default)
+
+# travel blog cover
+travelcover: "/assets/images/travel_cover.jpg"
+
+# general blog cover
+generalcover: "/assets/images/general_cover.jpg"
+
+# photo gallery cover
+photocover: "/assets/images/photo_cover.jpg"
+
+name: 'Pallavi Hukerikar'
+author: 'Pallavi Hukerikar'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+paginate_path: "travel_blog/index.html"
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle:
+
+#fill in disqus shortname to use disqusg
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	plane
+    url:	travel_blog.html
+    desc: Read about my travels
+    share_url:
+    share_title:
+    share_link:
+
+  # commenting out until I make first general blog post
+  # - icon:	comment
+  #   url:	general_blog.html
+  #   desc:	Checkout my blog
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+  # commenting out until I make first insta post
+  # - icon: instagram
+  #   url: https://www.instagram.com/photosbypallavi/
+  #   desc: Follow me on Instagram
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+last_social:
+  - icon:	camera
+    url:	photo_gallery.html #https://www.flickr.com/photos/157990048@N06/albums/with/72157685362851094
+    desc:	Take a look at my life in pictures
+    share_url:
+    share_title:
+    share_link:
+
+nav:
+  - icon: home
+    url: index.html
+    postUrl: ../../../../index.html
+    desc:
+
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
+
+exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]

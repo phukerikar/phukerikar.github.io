@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<link type="text/css" rel="stylesheet" href="css/gallery.css"/>
+
+<div class="teaserimage">
+    <div class="teaserimage-image" {% if site.photocover %}style="background-image: url({{ site.photocover | prepend: site.baseurl }})"{% endif %}>
+        Teaser Image
+    </div>
+</div>
+
+<header class="blog-header">
+    {% if site.logo %}
+      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
+    {% endif %}
+    <h1 class="blog-title">{{ site.title }}</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <div class="custom-links">
+      {% for n in site.nav %}
+        {% if n.url %}
+            <a class="icon-{{ n.icon }}" href="{{ n.url }}" {% if social.desc %} title="{{ n.desc }}"{% endif %}>
+              <i class="fa fa-{{ n.icon }}"></i>
+            </a>
+
+        {% endif %}
+      {% endfor %}
+    </div>
+</header>
+
+
+<main class="content" role="main">
+
+		<h5 class="index-headline featured"/>
+
+			<!-- one photo gallery -->
+			<div class = "container featured">
+				<div class = "photo-gallery">
+					<a href="galleries/california-2017.html">
+			    	<img id ="photo-gallery-image" src="../assets/photo-gallery/gallery-images/california-2017-gallery.jpg"/>
+			    </a>
+				</div>
+			</div>
+
+</main>
