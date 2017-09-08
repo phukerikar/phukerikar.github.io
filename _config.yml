@@ -57,12 +57,12 @@ social:
   #   share_link:
 
   # commenting out until I make first insta post
-  # - icon: instagram
-  #   url: https://www.instagram.com/photosbypallavi/
-  #   desc: Follow me on Instagram
-  #   share_url:
-  #   share_title:
-  #   share_link:
+  - icon: instagram
+    url: https://www.instagram.com/photosbypallavi/
+    desc: Follow me on Instagram
+    share_url:
+    share_title:
+    share_link:
 
 last_social:
   - icon:	camera
