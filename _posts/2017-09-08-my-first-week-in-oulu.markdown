@@ -4,14 +4,14 @@ title:  "My First Week in Oulu"
 date:   2017-09-08 14:34:25
 categories: travel
 tags: featured
-image: ./assets/article_images/2017-09-08-my-first-week-in-oulu/cover.jpg
+image: /assets/article_images/2017-09-08-my-first-week-in-oulu/cover.jpg
 excerpt: The week of settling in, making new friends, starting classes, and exploring the city!
 ---
 Well it turns out I was right. In my last blog post I mentioned that I was coming to the realization that sometimes the best experiences are the ones we least expect, and my first week in Finland has proved that to be absolutely true. From meeting incredible people, to crossing viewing the Northern Lights off my bucket list, any sense of regret or sadness for not being able to go to my initial country of choice has vanished.
 
 3 flights and 1 bus ride after my last post, I arrived in Oulu and met my *kummi* (Finnish for “godparent”) at the bus stop across my residence. While I was initially a little concerned about my building, given that it’s the farthest one from campus (for UW students think CLV), I’m really happy with how things turned out. I was the last to arrive to my three person suite and met my roommates: Estefania from Mexico and Silvia from Italy! After a quick trip to the grocery store and some floor socializing, I hit my bed exhausted.
 
-![My roommates and I at ESN's event at Caio](./assets/article_images/2017-09-08-my-first-week-in-oulu/roommates.jpg){:class="img-responsive"}
+![My roommates and I at ESN's event at Caio](/assets/article_images/2017-09-08-my-first-week-in-oulu/roommates.jpg){:class="img-responsive"}
 
 The next two days I walked to and from campus and fell in love with the 3km path. In Oulu, many of the bike and walking paths are right in the middle of the woods. While they look a little scary at night with all the fog, they are absolutely beautiful when there is light out. The two days after I arrived were mostly full of orientation events focused on finishing off administrative paperwork and learning to live like a Finn. Finns tend to be very reserved and straight faced which has been a little strange for me thus far given that I'm used to smiling at everyone and getting smiles back. It'll take a little getting used to but maybe I'll adopt the culture myself. During one of the orientation presentations I heard the following quote which really resonated with me:
 
