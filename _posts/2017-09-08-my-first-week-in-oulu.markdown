@@ -3,7 +3,7 @@ layout: post
 title:  "My First Week in Oulu"
 date:   2017-09-08 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-09-08-my-first-week-in-oulu/cover.jpg
 excerpt: The week of settling in, making new friends, starting classes, and exploring the city!
 ---

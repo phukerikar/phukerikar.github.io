@@ -3,7 +3,7 @@ layout: post
 title:  "The Adventure Begins"
 date:   2017-08-30 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-08-30-the-adventure-begins/cover.jpg
 excerpt: Today I’ll be embarking on a four month academic exchange term at the University of Oulu in Oulu, Finland. In an attempt to consistently keep track of my adventures, I’ve decided to post about my travels here.
 ---
