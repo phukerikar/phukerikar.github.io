@@ -22,7 +22,7 @@ Afterwards, we had the chance to live the full mökki experience by spending tim
 
 On Saturday we woke up, ate breakfast, and took off on an approximately eight or so kilometre hike in Syöta National Park. As if the hike wasn’t beautiful enough, we ended up at a viewing point high enough to see the surrounding lakes. While pictures can’t capture the nature’s beauty entirely, you can see the view from the peak of the hike below. On the way back we stopped to have a “sausage party” where we ate traditional Finnish *makkara* (Finnish for sausage) cooked over a bonfire.
 
-![My roommates and I at the peak of our hike in Syöti National Park](/assets/article_images/2017-09-18-experiencing-a-finnish-mokki/hike-roommates.jpg){:class="img-responsive"}
+![My roommates and I at the peak of our hike in Syöte National Park](/assets/article_images/2017-09-18-experiencing-a-finnish-mokki/hike-roommates.jpg){:class="img-responsive"}
 
 After getting back from the hike we took the boats out onto the lake and paddled around. Being on the water in what felt like the middle of nowhere was incredibly serene and I felt like I could’ve stayed there forever. However, I hadn’t met my daily quota of sauna, so we again spent time sweating in the sauna and jumping into the lake. The night was again spent getting to know other students and talking with my cabin mates. The trip concluded on Sunday after a late start to the morning and an afternoon bus ride back to reality, or well, Oulu. All in all it was an incredible weekend that exposed me to some fun Finnish traditions and Finland's natural beauty.
 
