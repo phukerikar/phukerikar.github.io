@@ -13,7 +13,7 @@ One of the things I was most looking forward to doing during my exchange was exp
 
 After a week full of anticipation and classes, we took off Thursday evening by catching a bus to Helsinki from Oulu's city centre. Nine hours later we arrived at Helsinki. For once I was just really thankful for my ability to fall asleep pretty much anywhere - the bus ride would have been a lot more painful if I was awake.
 
-###Baltics Part I: Tallinn, Estonia
+### Baltics Part I: Tallinn, Estonia
 
 After getting off the bus at Helsinki we walked over to the nearby tram stop to catch a tram to the harbour. We arrived at the dock about an hour and a half early and as luck would have it it had already begun to rain. Thankfully we were able to seek shelter in a hotel lobby until 7am when we could go to the ferry building for check in. We caught our ferry to Tallinn at 8am and all ended up passing out again during the slightly bumpy ride. Luckily by the time we got to Tallinn the rain had died down and we were left with only clouds. The Old Town of Tallinn isn't far from the harbour so we only had to walk about 10 minutes before we stared seeing the picturesque architecture we were expecting from the city.
 
@@ -29,7 +29,7 @@ We continued to walk around Old Town and saw Alexander Nevsky Cathedral, St. Nic
 
 In the evening we got dinner at an Indian/Chinese fusion restaurant just a little away from the main square. It was run by a man who was originally from India but immigrated to Estonia to stay with his Estonian wife. He talked to us about the cultural difference and how in Estonia people don't make very much money but they live really happy and relaxed lives. It’s quite a change from Canada or America and you can definitely sense that people are much more relaxed there. After that we went to Olde Hansa restaurant for our 8pm reservation. Many of my friends had told me it was a fantastic restaurant that I had to try. It offers not only medieval food, but a complete medieval style dining experience such as candle only lighting and traditional live music. Here we tried the famous honey beer and took in the authentic medieval look of the restaurant. After that, we walked back to our hostel in Tallinn and went straight to bed so that we could wake up early for our 6am bus to Riga, Latvia.
 
-###Baltics Part II: Riga, Latvia
+### Baltics Part II: Riga, Latvia
 
 Saturday morning we woke up at 4:45am to get ready and catch our early morning bus to Riga. This time it was a Lux Express bus, which, with it's unlimited tea/coffee/hot chocolate, individual tv screens with movies, and wifi, unrealistically raised our bus standards for the rest of the trip. The four hour morning ride allowed us to catch the beautiful sunrise and take a nap before arriving to Riga at about 10am.
 
@@ -48,7 +48,7 @@ After lunch we walked around the city to see all the major attractions such as R
 
 In the evening we had dinner at a restaurant in the center of the square and waited until it was late enough to walk back out to the bus stop, where we would catch our late night bus to Vilnius, Lithuania. All in all Riga was a beautiful city and had some really nice architecture and culture. Although we were only there about 12 hours, I felt satisfied with what I had seen given the small size of the city.
 
-###Baltics Part III: Vinius, Lithuania
+### Baltics Part III: Vinius, Lithuania
 
 We caught our 10pm bus from the station in Riga, Latvia and arrived at Vilnius, Lithuania about four hours later. So there we were, 2:30am, wandering the streets of Vilnius in search of our hostel called B&B&B&B&B. When we finally arrived at the hostel, we were surprised to open the door and find a club. Not an empty club. A club full of teenagers with really loud dance music. It turns out that our hostel was located right above a bar and that they were serious when they bragged about their "free ear plugs available at reception". In any case, we were all way too tired to do anything besides put away our stuff and go to bed. Given our late bedtime, we started off the next day a little later than usual after checking out at 11am. Luckily we were able to leave our bags with reception even after checking out, so it was another backpack-free, comfortable day.
 
@@ -69,7 +69,7 @@ We took a break briefly to get lunch in an area with a couple of restaurants nea
 
 We continued walking through the city and saw Gates of Dawn, Vilnius University, Town Hall, St. Anne’s Church, and Church of St. Casimir. Again, I was amazed at the sheer number of churches as well as their beauty and magnitude. We ended our day by getting dinner at a place that specialized in crepes, pancakes, and latkes, after which we picked up our bags from the hostel, and went back to the station to catch our next bus back to Tallinn.
 
-###Helsinki, Finland
+### Helsinki, Finland
 
 Our 10:30pm bus from Vilnius reached Tallinn at 6:50am, just in time for us to take a tram to the harbour and catch our 8am ferry back to Helsinki. We had planned our trip so that we would have a day to spend in Helsinki before catching an overnight bus back to Oulu, and while we were tired when we disembarked in Helsinki we were still happy to have the chance to explore another city. Although Helsinki turned out to be much smaller than I expected the perfect weather and beauty of the city made it a great experience nonetheless.
 
