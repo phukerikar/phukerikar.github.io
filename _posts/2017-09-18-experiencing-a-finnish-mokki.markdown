@@ -3,7 +3,7 @@ layout: post
 title:  "Experiencing a Finnish Mökki"
 date:   2017-09-18 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-09-18-experiencing-a-finnish-mokki/cover.jpg
 excerpt: The week of planning trips, bonding with floormates, and spending a weekend at a mökki!
 ---
