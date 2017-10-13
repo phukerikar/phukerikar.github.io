@@ -5,6 +5,7 @@ date:   2017-09-18 14:34:25
 categories: travel
 tags: regular
 image: /assets/article_images/2017-09-18-experiencing-a-finnish-mokki/cover.jpg
+image2: /assets/article_images/2017-09-18-experiencing-a-finnish-mokki/cover-mobile.jpg
 excerpt: The week of planning trips, bonding with floormates, and spending a weekend at a mökki!
 ---
 

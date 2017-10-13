@@ -5,6 +5,7 @@ date:   2017-08-30 14:34:25
 categories: travel
 tags: regular
 image: /assets/article_images/2017-08-30-the-adventure-begins/cover.jpg
+image2: /assets/article_images/2017-08-30-the-adventure-begins/cover-mobile.jpg
 excerpt: Today I’ll be embarking on a four month academic exchange term at the University of Oulu in Oulu, Finland. In an attempt to consistently keep track of my adventures, I’ve decided to post about my travels here.
 ---
 Today I’ll be embarking on a four month academic exchange term at the University of Oulu in Oulu, Finland. While I’ve done some solo traveling in the past, having worked in Calgary and California, this is the farthest away from home I’ll be going for this long. In an attempt to consistently keep track of my adventures, I’ve decided to post about my travels as often as possible.

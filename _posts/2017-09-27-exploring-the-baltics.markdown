@@ -5,6 +5,7 @@ date:   2017-09-27 14:34:25
 categories: travel
 tags: featured
 image: /assets/article_images/2017-09-27-exploring-the-baltics/cover.jpg
+image2: /assets/article_images/2017-09-27-exploring-the-baltics/cover-mobile.jpg
 excerpt: The week of excessive bus rides, amazing views, and exploring the Baltics.
 ---
 

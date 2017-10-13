@@ -5,6 +5,7 @@ date:   2017-09-08 14:34:25
 categories: travel
 tags: regular
 image: /assets/article_images/2017-09-08-my-first-week-in-oulu/cover.jpg
+image2: /assets/article_images/2017-09-08-my-first-week-in-oulu/cover-mobile.jpg
 excerpt: The week of settling in, making new friends, starting classes, and exploring the city!
 ---
 Well it turns out I was right. In my last blog post I mentioned that I was coming to the realization that sometimes the best experiences are the ones we least expect, and my first week in Finland has proved that to be absolutely true. From meeting incredible people, to crossing viewing the Northern Lights off my bucket list, any sense of regret or sadness for not being able to go to my initial country of choice has vanished.
