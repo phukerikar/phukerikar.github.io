@@ -3,7 +3,7 @@ layout: post
 title:  "Seeing St. Petersburg, Russia"
 date:   2017-10-24 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-10-24-russia/cover.jpg
 image2: /assets/article_images/2017-10-24-russia/cover-mobile.jpg
 excerpt: The week of exploring St. Petersburg, Russia.
