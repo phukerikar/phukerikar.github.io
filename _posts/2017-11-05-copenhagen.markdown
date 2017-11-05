@@ -11,7 +11,7 @@ excerpt: The week of writing exams, visiting Copenhagen, and day-tripping to Mal
 
 As I mentioned in the last post I spent most of my week studying for my Optimization and Survival Finnish exams that took place on Thursday and Friday. After the exam on Friday I came home and packed my bag for my trip to Copenhagen, Denmark with my Dutch floormate, Roos.
 
-![Roos & I](/assets/article_images/2017-11-05-copenhagen/roosandi.jpg){:class="img-responsive"}
+![Roos & I](/assets/article_images/2017-11-05-copenhagen/roosi.jpg){:class="img-responsive"}
 
 We caught the usual overnight bus from Oulu to Helsinki and arrived at Helsinki Airport at 5:30am, giving us enough time to freshen up before our 7:30am flight. After the hour and a half plane ride and taking into account the one hour time difference, we arrived at Copenhagen Airport at about 8am. We caught the metro out of the airport to Kongens Nytorv station, and walked about 10 minutes to our hostel called Copenhagen Downtown Hostel. Although our checkin wasn't until 2pm, we were able to rent a locker and keep both our bags away while we walked around the city in the morning. We stopped by a nice cafe for breakfast and mapped out the rest of our day.
 
