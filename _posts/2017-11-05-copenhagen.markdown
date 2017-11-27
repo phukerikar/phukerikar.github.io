@@ -3,7 +3,7 @@ layout: post
 title:  "Checking out Copenhagen and Malmö"
 date:   2017-11-05 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-11-05-copenhagen/cover.jpg
 image2: /assets/article_images/2017-11-05-copenhagen/cover-mobile.jpg
 excerpt: The week of writing exams, visiting Copenhagen, and day-tripping to Malmö.
