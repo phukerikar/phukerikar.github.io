@@ -3,7 +3,7 @@ layout: post
 title:  "Sailing to Stockholm"
 date:   2017-11-28 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-11-28-stockholm/cover.jpg
 image2: /assets/article_images/2017-11-28-stockholm/cover-mobile.jpg
 excerpt: The week of weekend band rehearsal, my first gig in Oulu, and sailing to Stockholm, Sweden.
