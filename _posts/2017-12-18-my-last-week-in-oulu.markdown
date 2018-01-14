@@ -3,7 +3,7 @@ layout: post
 title:  My Last Week in Oulu
 date:   2017-12-18 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-12-18-my-last-week-in-oulu/cover.jpg
 image2: /assets/article_images/2017-12-18-my-last-week-in-oulu/cover-mobile.jpg
 excerpt: The week of visiting Rovaniemi, my first christmas dinner, and saying goodbye.

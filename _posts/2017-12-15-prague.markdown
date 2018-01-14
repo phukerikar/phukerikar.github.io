@@ -3,7 +3,7 @@ layout: post
 title:  "Prague: My Favourite City Yet"
 date:   2017-12-15 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2017-12-15-prague/cover.jpg
 image2: /assets/article_images/2017-12-15-prague/cover-mobile.jpg
 excerpt: The week of exploring Prague & heading home!
