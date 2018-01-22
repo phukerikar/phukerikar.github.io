@@ -3,7 +3,7 @@ layout: post
 title:  The Final Adventure
 date:   2018-01-14 14:34:25
 categories: travel
-tags: featured
+tags: regular
 image: /assets/article_images/2018-01-14-the-final-adventure/cover.jpg
 image2: /assets/article_images/2018-01-14-the-final-adventure/cover-mobile.jpg
 excerpt: The week (and a half) of exploring Vienna, Bratislava, Budapest, and Prague.
