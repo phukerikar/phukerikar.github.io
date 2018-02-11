@@ -23,6 +23,8 @@ Secondly, while I truly enjoyed my travels and fully intend on exploring as many
 
 Exchange was a wonderful adventure. One that I'm thankful to have had and know I will never forget. And as that chapter of my life comes to a close, I look forward to the exciting adventures that await!
 
+![](/assets/article_images/2018-01-21-a-little-reflection/timeswehad.jpg){:class="img-responsive"}
+
 If you've made it this far, thank you for reading what will be my final blog post for a while. For those of you who have stuck with me through all 12 blog posts, congratulations on getting through the 14,000 words, and thanks again for keeping up with my all of my exchange adventures. I hope that somewhere along the 13 countries and 11 languages explored throughout these blogs you learned something new or at least enjoyed reading!
 
 Until the next blog-worthy adventure,
